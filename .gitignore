@@ -8,6 +8,7 @@ build/
 ### DB ###
 ./src/main/resources/application-DB.properties
 
+
 ### STS ###
 .apt_generated
 .classpath
