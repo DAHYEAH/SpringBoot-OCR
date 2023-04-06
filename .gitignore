@@ -6,7 +6,7 @@ build/
 !**/src/test/**/build/
 
 ### DB ###
-./src/main/resources/application-DB.properties
+src/main/resources/application-DB.properties
 
 
 ### STS ###
